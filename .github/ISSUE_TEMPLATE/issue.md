@@ -1,6 +1,6 @@
 ---
 name: Issue
-about: Documentation describing an issue which exist today and the behavior or data
+about: Documentation describing an issue which exists today, and the behavior or data
   expected instead.
 title: ''
 labels: ''

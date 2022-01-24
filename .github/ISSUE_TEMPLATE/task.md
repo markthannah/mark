@@ -1,8 +1,8 @@
 ---
 name: Task
-about: Documentation describing a unit or work that will be assigned and implemented.
-  This will often be a task supporting a larger milestone, but can be independent
-  of a milestone..
+about: 'Documentation describing a unit of work that will be assigned and implemented.
+  This will often be a task supporting a larger milestone, but it can also be independent
+  of a milestone. '
 title: ''
 labels: ''
 assignees: ''
