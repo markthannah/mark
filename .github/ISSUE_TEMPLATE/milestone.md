@@ -20,4 +20,4 @@ assignees: ''
 *An explanation of what is in scope and what is not, followed by the tasks which collectively represent the full scope of work.*
 
 **Considerations:**
-*Caveats, exceptions, dependencies, or anything worth noting which may influence how the work is performed.
+*Caveats, exceptions, dependencies, or anything worth noting which may influence how the work is performed.*

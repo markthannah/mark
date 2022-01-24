@@ -19,7 +19,7 @@ assignees: ''
 *Documents and links providing additional clarification, access to account information, etc.* 
 
 **Scope**
-*An explanation of what is in scope and what is not with any details or steps which will help facilitate the implementation of this work. 
+*An explanation of what is in scope and what is not with any details or steps which will help facilitate the implementation of this work.*
 
 **Considerations:**
-*Caveats, exceptions, dependencies, or anything worth noting which may influence how the work is performed.
+*Caveats, exceptions, dependencies, or anything worth noting which may influence how the work is performed.*
