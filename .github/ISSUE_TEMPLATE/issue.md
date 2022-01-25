@@ -8,8 +8,11 @@ assignees: ''
 
 ---
 
-**Steps to Reproduce**
-*A sequential list of the steps, query, etc. which can be used to reproduce the issue.*
+**Background**
+*An explanation of the issue, why it occurs, and any workarounds currently in place.*
+
+**How to Reproduce**
+*When appropriate, a sequential list of the steps, query, etc. which can be used to reproduce the issue.*
 
 **Expected Behavior**
 *An explanation of the behavior or data which is expected. This will diverge from the steps listed above.*
