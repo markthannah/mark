@@ -8,17 +8,17 @@ assignees: ''
 
 ---
 
-**Background**
-*An explanation of the issue, why it occurs, and any workarounds currently in place.*
+### Background
+*An explanation of the issue and why it occurs.*
 
-**How to Reproduce**
-*When appropriate, a sequential list of the steps, query, etc. which can be used to reproduce the issue.*
+### Example(s)
+*Queries on the raw tables, screenshots of the results, and any additional context to help demonstrate the nature of the issue.*
 
-**Expected Behavior**
-*An explanation of the behavior or data which is expected. This will diverge from the steps listed above.*
+### Proposed Solution(s)
+*The suggested or anticipated way in which the issue will be resolved.*
 
-**Issue Artifacts:**
-*Screenshots, documents, and/or links providing additional clarification, access to account information, etc.* 
+### External Conversation(s)
+*Links to Slack discussions where the issue was introduced and a resolution was discussed.*
 
-**Considerations:**
-*Caveats, exceptions, dependencies, or anything worth noting which may influence how the work is performed.*
+### Additional Artifacts
+*Documents or links providing additional clarification, access to account information, etc.*
